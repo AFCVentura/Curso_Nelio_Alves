@@ -21,7 +21,7 @@ Antigamente o tipo int aceitava numeros de até 16 bits, o que o limitava de -32
 
 Os números reais em C podem ser declarados de duas formas (float e double), float necessita de menos espaço de memória (4 bytes, 32 bits) e double requer mais (8 bytes, 64 bits), no entanto números double possuem o dobro de precisão de números float, exibindo o dobro de casas decimais (15 mais ou menos, enquanto floats exibem de 6 a 7)
 
-Strings podem ser divididas entre caracteres e textos, se for respresentar um caractere, deve-se usar aspas simples: 'F'. Já textos, deve-se usar aspas duplas: "Olá", além disso, textos devem ser armazenados em variáveis em forma de vetor: char[], enquanto caracteres podem ir em variáveis cha
+Strings podem ser divididas entre caracteres e textos, se for respresentar um caractere, deve-se usar aspas simples: 'F'. Já textos, deve-se usar aspas duplas: "Olá", além disso, textos devem ser armazenados em variáveis em forma de vetor: char[], enquanto caracteres podem ir em variáveis char
 
 Valores lógicos em C são numéricos e representados por inteiros, valores falsos são o número 0 e verdadeiros qualquer número diferente de 0
 
